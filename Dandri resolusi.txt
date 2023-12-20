@@ -1,3 +1,5 @@
-Resolusi dalam meningkatkan skill
+Resolusi dalam meningkatkan skill sebelum februari
 - Belajar fokus minimal 4 jam sehari
-- menguasai html, css, javascript, git, bootstrap, react, vue sebelum februari
+- menguasai javascript, git, bootstrap, react, vue 
+- belajar ulang sql dan java
+- membuat website portofolio
