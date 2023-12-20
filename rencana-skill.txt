@@ -1,2 +1,3 @@
 Rencana skills
-- pelajari materi quality assurance
+- pelajari materi quality assurance (myskill)
+
