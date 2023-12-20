@@ -1,4 +1,6 @@
 Rencana skills
 - pelajari materi quality assurance (myskill)
+  - debugging
+  - testing
 - belajar bahasa inggris
 
